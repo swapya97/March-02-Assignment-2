@@ -1,0 +1,30 @@
+body {
+  background-color: rgba(255, 0, 34, 0.932);
+}
+table {
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+img {
+  width: 280px;
+  height: 180px;
+}
+button {
+  color: rgb(255, 255, 255);
+  border: 5px solid rgb(59, 59, 59);
+  border-radius: 5px;
+  background-color: rgb(49, 49, 49);
+  width: 60px;
+}
+span {
+  font-size: 20px;
+}
+.heading {
+  width: 200px;
+  height: 220px;
+  border-radius: 5px;
+  background-color: rgba(78, 77, 77, 0.575);
+  font-size: 30px;
+}
